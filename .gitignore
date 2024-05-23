@@ -1,0 +1,7 @@
+/.keys
+
+# dependencies
+/node_modules
+
+# local data
+/data

@@ -1,0 +1,9 @@
+{
+  "name": "arweave-asset-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "arweave": "^1.14.4"
+  }
+}
